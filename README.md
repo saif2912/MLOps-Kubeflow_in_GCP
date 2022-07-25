@@ -19,7 +19,7 @@ The following topics will be covered:
    * Deployment: Deploying your custom model to the AI Platform with version control
 2. Creating a Kubeflow pipeline and connecting the above tasks
 3. Perform CI by building Github Triggers in Cloud Build that will rebuild container upon a push to repository
-4. CD by using Cloud Functions to trigger upon uploading new data to your bucket
+4. CD by using Cloud Functions to trigger upon uploading new data to your bucket.
 
 <p align="center">
   <img width="245" alt="gcloud_meme" src="https://user-images.githubusercontent.com/52280124/117477536-661e9900-af5e-11eb-8615-7e2e2f783832.PNG">
