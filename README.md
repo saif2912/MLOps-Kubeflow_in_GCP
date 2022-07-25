@@ -9,7 +9,7 @@ This repo will demonstrate how to take the first step towards MLOps by setting u
 
 ## ✍ Authors
 * Johan Hammarstedt, [jhammarstedt](https://github.com/jhammarstedt)
-* Matej Sestak, [Sestys](https://github.com/sestys)
+* Matej Sestak, [Sestys](https://github.com/sestys).
 
 ## 🗺 Overview
 The following topics will be covered:
